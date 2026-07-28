@@ -51,6 +51,7 @@ Deploy the website.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -268,8 +269,11 @@ Upload to GitHub Pages for free hosting.
 
 </body>
 </html>
+```
+## OUTPUT
 ## OUTPUT
 
+![Website Output Screenshot](image.png)
 
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
