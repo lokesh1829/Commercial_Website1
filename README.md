@@ -1,5 +1,5 @@
 # Ex02 Commercial Website
-## Date:
+## Date:28.07.2026
 
 ## AIM
 To create a commercial website using CSS Flexbox.
@@ -51,6 +51,7 @@ Deploy the website.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
+HTML 
 ```
 <!DOCTYPE html>
 <html lang="en">
