@@ -51,7 +51,7 @@ Deploy the website.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
-<!DOCTYPE html>
+'''<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -250,7 +250,7 @@ Upload to GitHub Pages for free hosting.
 
 </body>
 </html>
-
+'''
 ## OUTPUT
 
 
